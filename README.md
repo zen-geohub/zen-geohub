@@ -9,8 +9,9 @@ Still learning.
 <p>
   <a href="#"><img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"/>
   <a href="#"><img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-  <a href="https://tailwindcss.com/" target="_blank"><img height="25px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/>
+  <a href="https://tailwindcss.com/" target="_blank"><img height="22px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/>
   <a href="https://www.javascript.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+  <a href="https://www.nodejs.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg"/>
   <a href="https://www.figma.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/>
   <a href="https://postgresql.org/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/>
   <a href="https://leafletjs.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/leaflet.svg"/>
