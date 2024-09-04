@@ -1,26 +1,10 @@
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+# 💫 About Me:
 Still learning.
 
-### Tech Stack
-<p>
-  <a href="#"><img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"/>
-  <a href="#"><img height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-  <a href="https://tailwindcss.com/" target="_blank"><img height="22px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/>
-  <a href="https://www.javascript.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-  <a href="https://www.nodejs.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg"/>
-  <a href="https://www.figma.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/>
-  <a href="https://postgresql.org/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/>
-  <a href="https://leafletjs.com/" target="_blank"><img height="30px" align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/leaflet.svg"/>
-  <a href="https://qgis.org/en/site/" target="_blank"><img height="25px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" alt="qgis"/> </a>
-</p>
 
-<br><br>
-
-<div >
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zen-geohub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zen's Github Stats">
-  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zen-geohub&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-</div>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zen-geohub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zen-geohub&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-geohub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
